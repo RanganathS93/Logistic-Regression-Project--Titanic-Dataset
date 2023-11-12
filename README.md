@@ -1,4 +1,4 @@
-# Logistic-Regression-Project--Titanic-Dataset
+# Logistic-Regression-Project--Titanic-and Advertising Datasets
 
   Performed EDA using Seaborn matplotlib and Cufflinks(interactive visualization)
   
